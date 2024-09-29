@@ -30,10 +30,10 @@ Clone the repository:
 After unzipping the Backend.zip file : 
 open the backend folder
 -   run the homepage.py file
--   to open homepage.py use : streamlit run homepage.py
+-   to run homepage.py use : streamlit run homepage.py
   
 After unzipping the Website.zip file : 
-implement the following commands
+run the following commands
 -   npm install (to install required modules)
 -   npm start 
 
