@@ -16,7 +16,7 @@ Image Search: The search engine can generate images based on textual description
 
 Multi-Modality: Users can seamlessly switch between text, audio, and image search modes to explore diverse content formats.
 
-## Getting Started
+## Setting up the project
 To set up the project locally, follow these steps: 
 
 Firstly 
