@@ -19,9 +19,9 @@ Multi-Modality: Users can seamlessly switch between text, audio, and image searc
 ## Setting up the project
 To set up the project locally, follow these steps: 
 
-Firstly 
--Obtain the Google Gemini API key for text and audio search. 
--Obtain the HuggingFace stable diffusion API key for image generation. 
+Firstly
+- Obtain the Google Gemini API key for text and audio search.
+- Obtain the HuggingFace stable diffusion API key for image generation. 
 
 Clone the repository: git clone 
 - Unzip the 2 files named Website.zip & Backend.zip
