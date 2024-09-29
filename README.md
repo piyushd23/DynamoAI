@@ -23,7 +23,8 @@ Firstly
 - Obtain the Google Gemini API key for text and audio search.
 - Obtain the HuggingFace stable diffusion API key for image generation. 
 
-Clone the repository: git clone 
+Clone the repository:
+- git clone : https://github.com/piyushd23/DynamoAI.git
 - Unzip the 2 files named Website.zip & Backend.zip
 
 After unzipping the Backend.zip file : 
