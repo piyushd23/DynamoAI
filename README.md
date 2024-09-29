@@ -1,6 +1,7 @@
 # Dynamo: AI-Powered Search Engine
 
-Welcome to the DynamoAI repository! DYNAMO is an advanced search engine platform that leverages AI capabilities for text search , audio interaction , and image generation functionalities.
+Welcome to the DynamoAI repository!
+DYNAMO is an advanced search engine platform that leverages AI capabilities for text search , audio interaction , and image generation functionalities.
 
 
 ## Overview
@@ -29,7 +30,8 @@ Clone the repository:
 
 After unzipping the Backend.zip file : 
 open the backend folder
--   run the homepage.py file
+(check for the backend file path properly)
+-   run the homepage.py file (use the proper path and open the dedicated integrated terminal)
 -   to run homepage.py use : streamlit run homepage.py
   
 After unzipping the Website.zip file : 
